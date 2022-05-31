@@ -1,0 +1,10 @@
+body {
+    background: #111;
+}
+canvas {
+    display: block;
+    margin: 5em auto;
+    box-shadow: 25px 25px 15px rgba(0 0 0 / 35%);
+    border-top: 1px solid #222;
+    border-left: 1px solid #222;
+}
